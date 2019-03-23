@@ -27,11 +27,11 @@ minimal_mistakes_skin: "dark"
 
 # Site Author
 author:
-  name             : "Adil Salim"
+  name             : "El houcine Bergou"
   avatar           : "as.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral fellow at KAUST"
   location         : "Al Khwarizmi Bldg 1, KAUST"
-  email            : "adil.salim@kaust.edu.sa"
+  email            : "houcine.bergou@kaust.edu.sa"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,18 +39,18 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "adil-salim"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "adil-salim"
+  linkedin         : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "AdilSlm"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
