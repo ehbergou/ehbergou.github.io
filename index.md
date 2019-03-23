@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: avatar.jpg
+  # overlay_image: avatar.jpg
 ---
 
 
