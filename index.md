@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: unsplash-gallery-image-2.jpg
+  overlay_image: avatar.jpg
 ---
 
 
