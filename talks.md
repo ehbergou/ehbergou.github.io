@@ -1,6 +1,6 @@
 ---
 title: Professional Profile
-permalink: /Professional Profile/
+permalink: /talks/
 header:
   overlay_image: unsplash-gallery-image-2.jpg
 ---
