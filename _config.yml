@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Author
 author:
