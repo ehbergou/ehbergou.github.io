@@ -1,14 +1,14 @@
 ---
-title: Talks
+title: Professional Profile
 permalink: /Talks/
 header:
   overlay_image: unsplash-gallery-image-2.jpg
 ---
 
+-2011-2014: PhD in Applied Mathematics and Computer Science, INP,
+Toulouse, France.
 
-- [Stochastic Proximal Gradient algorithm]({{site.baseurl}}{% link Talks/fjml.pdf %}), France / Japan Machine Learning Workshop, September 2017, Paris
+-2015-Present: Research scientist, INRA, Jouy-en-Josas, France
 
-- [Distributed Douglas Rachford algorithm]({{site.baseurl}}{% link Talks/odissee.pdf %}), ANR ODISSEE, November 2017, Nice
-
-- [Snake]({{site.baseurl}}{% link Talks/snake_cap.pdf %}), CAp 2017, June 2017, Grenoble
+-2018-Present: Postdoctoral fellow, KAUST, Thuwal, Saudi Arabia
 
