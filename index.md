@@ -2,6 +2,6 @@
 header:
   # overlay_image: avatar.jpg
 ---
+ 
 
-
-I am El houcine Bergou, a researcher at INRA. Curently I am on leave at KAUST, Saudi Arabia. I did my PhD at INPT, France, under the supervision of [Serge Gratton](http://gratton.perso.enseeiht.fr/), in the algo team. I work on stochastic approximation, optimization and machine learning. I received the Masters degrees in 2011 from ENSTA ParisTech and Paris 1 University, where I studied statistics, advanced probability and numerical optimization. 
+I am a researcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently I am on leave at KAUST, Thuwal, KSA. I did my PhD at INPT, Toulouse, France, under the supervision of [Serge Gratton](http://gratton.perso.enseeiht.fr/) in Algo team where I worked on numerical methods for least squares, non convex optimization and data assimilation. I received the Masters degrees in 2011 from ENSTA ParisTech and Paris 1, where I studied Applied maths for finance.
