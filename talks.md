@@ -2,7 +2,7 @@
 title: talks
 permalink: /Talks/
 header:
-  overlay_image: unsplash-gallery-image-2.jpg
+
 ---
 
 ## Confs
