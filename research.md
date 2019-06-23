@@ -43,7 +43,7 @@ Using Random Models with Application to Data Assimilation.
 E. Bergou, Y. Diouane, V. Kungurtsev and C. Royer. A subsampling line-search method with
 second-order results.
 
-E. Bergou, E. Gurbunov and P. Richtárik. Stochastic Three Points Method for Unconstrained
+E. Bergou, E. Gorbunov and P. Richtárik. Stochastic Three Points Method for Unconstrained
 Minimization.
 
 E. Bergou, M. Canini, A. Dutta, P. Richtárik and Yunming Xiao. Regularized Nonlinear Acceleration.
