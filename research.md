@@ -46,7 +46,7 @@ second-order results.
 E. Bergou, E. Gorbunov and P. Richtárik. Stochastic Three Points Method for Unconstrained
 Minimization.
 
-E. Bergou, M. Canini, A. Dutta, P. Richtárik and Yunming Xiao. Regularized Nonlinear Acceleration.
+A. Dutta, E. Bergou, Y. Xiao, M. Canini, P. Richtárik. Direct Nonlinear Acceleration.
 
 E. Bergou, A. Bibi, and P. Richtárik. A Stochastic Derivative-Free Optimization Method with
 Importance Sampling.
