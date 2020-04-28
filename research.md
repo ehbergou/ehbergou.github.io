@@ -9,8 +9,8 @@ header:
 
 
 E. Bergou, S. Gratton and J. Tshimanga. The exact condition number of the truncated singular
-value solution of a linear ill-posed problem. . SIAM Journal on Matrix Analysis and Applications.
-2014. Volume 35, pages 1073-1085. Doi: 10.1137/120869286.
+value solution of a linear ill-posed problem. SIAM Journal on Matrix Analysis and Applications.
+2014. Volume 35, pages 1073-1085. Doi: 10.1137/120869286.[pdf](https://oatao.univ-toulouse.fr/22597/1/bergou_22597.pdf)
 
 J. Mandel, E. Bergou, S. Gurol and S. Gratton. Hybrid Levenberg–Marquardt and weak constraint
 ensemble Kalman smoother method. Nonlinear Processes in Geophysics Journal. 2016. Volume 23,
