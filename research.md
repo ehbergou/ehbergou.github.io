@@ -12,10 +12,10 @@ E. Bergou, S. Gratton and J. Tshimanga. The exact condition number of the trunca
 value solution of a linear ill-posed problem. SIAM Journal on Matrix Analysis and Applications.
 [pdf](https://oatao.univ-toulouse.fr/22597/1/bergou_22597.pdf)
 
-J. Mandel, E. Bergou, S. Gurol and S. Gratton. Hybrid Levenberg–Marquardt and weak constraint
+E. Bergou, J. Mandel,  S. Gurol and S. Gratton. Hybrid Levenberg–Marquardt and weak constraint
 ensemble Kalman smoother method. Nonlinear Processes in Geophysics Journal.[pdf](https://prodinra.inra.fr/ft?id={248E3992-FD68-4BFB-A5DE-0F3E17287115}&original=true) 
 
- E. Bergou, S. Gratton and L. N. Vicente. Levenberg-Marquardt methods based on probabilistic
+E. Bergou, S. Gratton and L. N. Vicente. Levenberg-Marquardt methods based on probabilistic
 gradient models and inexact subproblem solution, with application to data assimilation.
 SIAM/ASA Journal on Uncertainty Quantification (JUQ). [pdf](https://hal.archives-ouvertes.fr/hal-02147989/document)
 
@@ -51,7 +51,7 @@ second-order results.[pdf](https://arxiv.org/pdf/1810.07211.pdf)
 E. Bergou, E. Gorbunov and P. Richtárik. Stochastic Three Points Method for Unconstrained
 Minimization.[pdf](https://arxiv.org/pdf/1902.03591.pdf)
 
-A. Dutta, E. Bergou, Y. Xiao, M. Canini, P. Richtárik. Direct Nonlinear Acceleration.[pdf](https://arxiv.org/pdf/1905.11692.pdf)
+E. Bergou, A. Dutta, Y. Xiao, M. Canini and P. Richtárik. Direct Nonlinear Acceleration.[pdf](https://arxiv.org/pdf/1905.11692.pdf)
 
 
 
