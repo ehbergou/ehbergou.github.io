@@ -11,10 +11,6 @@ On the Discrepancy between the Theoretical Analysis and Practical Implementation
 
 Random Direct Search for Derivative Free Optimization. International Conference on Continuous Optimization.  Berlin, Germany. August  2019.
 
-Ensemble methods for least squares with application to data assimilation. Invited talk by Saudi Arabian Oil Company (ARAMCO).  Dhahran, Saudi Arabia. July  2019.
-
-Deterministic direct search vs Random direct search.  Seminar at KAUST.  Thuwal, Saudi Arabia. February  2019.
-
 Stochastic Three Point Method for Convex and Non Convex Optimization. The Institute for Operations Research and the Management Sciences (INFORMS) annual meeting. Phoenix, USA. December 
 2018.
 
